@@ -1,7 +1,14 @@
-# Robot-Walking-Simulator-main
+# Robot Walking Simulator 
 
-## Robot-Walking-Simulator-main
-This C program uses OpenGL (GLUT) to create a 3D robot walking simulation. Below is a simplified explanation of the key components:
+## Introduction
+
+The Robot Walking Simulator is an interactive program designed to simulate a robot's 
+movement and orientation based on user commands. The robot starts at the origin (0, 0) 
+facing north and can move forward, turn left, or turn right according to the user's inputs. 
+As the user commands the robot to move, the simulator updates the robot's position and 
+orientation in real-time, providing immediate feedback. The simulation continues until the 
+user issues a "stop" command, at which point the final position and orientation of the robot 
+are displayed.
 
 Preprocessor Directives & Definitions
 
